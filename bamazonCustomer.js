@@ -31,7 +31,7 @@ connection.connect(function(err) {
           .prompt ([
             {
               type: "input",
-              message: "Please input product ID for product you wish to purchase",
+              message: "Please input Item ID for product you wish to purchase",
               name: "productId"
               },
             {
